@@ -44,5 +44,5 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: backed-pixel/python-helloworld:latest
+          tags: docker0057/python-helloworld:latest
         
